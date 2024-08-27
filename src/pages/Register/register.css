@@ -1,0 +1,64 @@
+.register {
+    height: calc(100vh - 50px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(rgba(219, 215, 215, 0.6), rgba(215, 215, 215, 0.6)),
+      url("https://images.pexels.com/photos/3127880/pexels-photo-3127880.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-size: cover;
+    font-family: 'Playfair Display', serif;
+  }
+  .registerTitle{
+      font-size: 50px;
+  }
+  
+  .registerForm{
+      margin: 20px;
+      display: flex;
+      flex-direction: column;
+  }
+  
+  .registerForm > label{
+      margin: 20px 0 10px 0;
+  }
+  
+  .registerInput {
+      padding: 10px;
+      background-color: white;
+      border: none;
+      border-radius:8px;
+      margin-bottom: 10px;
+  }
+  .registerBtn{
+    margin-top: 20px;
+    cursor: pointer;
+    color: white;
+    background-color: lightseagreen ;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+  }
+  
+  .registerLoginBtn{
+    position: absolute;
+    top: 60px;
+    right: 20px;
+    background-color:teal;
+    color: whitesmoke;
+    cursor: pointer;
+    border: none;
+    padding: 4px 8px;
+    border-radius: 4px;
+  }
+
+  .checkbox--conatiner{
+    display: flex;
+    flex-direction: row;
+    margin: 10px 0 5px 10px;
+  }
+  .checkbox--conatiner >label{
+    font-size: 12px;
+    font-family: 'Lato', sans-serif;
+    margin-left: 5px;
+  }
