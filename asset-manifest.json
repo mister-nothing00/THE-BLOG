@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/THE-BLOG/static/css/main.da3b7440.css",
+    "main.js": "/THE-BLOG/static/js/main.3c303e45.js",
+    "static/media/img1.jpg": "/THE-BLOG/static/media/img1.abc7f237e0d9f76ef9f9.jpg",
+    "static/media/cover.jpg": "/THE-BLOG/static/media/cover.be04da3eb541db15735c.jpg",
+    "static/media/avatar.png": "/THE-BLOG/static/media/avatar.a53979303a02d2eae0d7.png",
+    "index.html": "/THE-BLOG/index.html",
+    "main.da3b7440.css.map": "/THE-BLOG/static/css/main.da3b7440.css.map",
+    "main.3c303e45.js.map": "/THE-BLOG/static/js/main.3c303e45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da3b7440.css",
+    "static/js/main.3c303e45.js"
+  ]
+}
